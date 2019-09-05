@@ -53,7 +53,7 @@ var image = document.getElementById("img-content");
 var roundedTable = document.getElementById("rounded-table");
 
 roundedTable.onmouseover = function() {
-  image.setAttribute("src", "/img/roundedTable.jpg");
+  image.setAttribute("src", "img/roundedTable.jpg");
 };
 
 roundedTable.onmouseout = function() {
@@ -64,7 +64,7 @@ roundedTable.onmouseout = function() {
 var wobblyChair = document.getElementById("wobbly-chair");
 
 wobblyChair.onmouseover = function() {
-  image.setAttribute("src", "/img/wobblyChair.jpg");
+  image.setAttribute("src", "img/wobblyChair.jpg");
 };
 
 wobblyChair.onmouseout = function() {
@@ -75,7 +75,7 @@ wobblyChair.onmouseout = function() {
 var straightChair = document.getElementById("straight-chair");
 
 straightChair.onmouseover = function() {
-  image.setAttribute("src", "/img/straightChair.jpg");
+  image.setAttribute("src", "img/straightChair.jpg");
 };
 
 straightChair.onmouseout = function() {
@@ -86,7 +86,7 @@ straightChair.onmouseout = function() {
 var rubikNightStand = document.getElementById("rubik-stand");
 
 rubikNightStand.onmouseover = function() {
-  image.setAttribute("src", "/img/rubikNightStand.jpg");
+  image.setAttribute("src", "img/rubikNightStand.jpg");
 };
 
 rubikNightStand.onmouseout = function() {
